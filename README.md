@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yuxnier Ladron de Guevara Valdes
 =========================================================================================================================================================
 
-Network Administrator, IT.
+Aspiring Information Technology Specialist | Cybersecurity Analyst | SOC Analyst | Systems Administrator | Passionate about technology, security, and continuous learning.
 --------------------------
 
-I gained some knowledge of coding while taking a Java Programming class. Currently, I'm learning the Python Programming language. Additionally, I have studied Network Administration and possess some knowledge in this field as well. I have gained knowledge of Information Systems and Computer Applications, Computer Concepts, Applications, and Data Management, etc.
+I am currently learning Python to strengthen my programming skills. I have knowledge in Network Administration, Information Systems, Computer Applications, Data Management, Cybersecurity, and Risk Management. I am committed to expanding my technical expertise and applying it to real-world IT and security challenges.
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [yuxnier@gmail.com](mailto:yuxnier@gmail.com)
